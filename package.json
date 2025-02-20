@@ -1,6 +1,7 @@
 {
   "name": "@akash3080/chartjs-node",
   "version": "1.0.0",
+  "description": "Render chart.js in node.js",
   "main": "./dist/index",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -18,7 +19,21 @@
     "watch-test": "nodemon --watch ./dist -e js --exec npm run-script test",
     "docs": "jsdoc2md dist/index.js > API.md"
   },
-  "author": "",
+  "bugs": {
+    "url": "https://github.com/CoderDotJs/chartjs-node/issues",
+    "email": "md.akash6724@gmail.com"
+  },
+  "author": {
+    "name": "CoderDotJs",
+    "email": "md.akash6724@gmail.com"
+  },
+  "homepage": "https://github.com/CoderDotJs/chartjs-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoderDotJs/chartjs-node.git"
+  },
+  "readme": "README.md",
+  "license": "MIT",
   "license": "ISC",
   "devDependencies": {
     "@types/chart.js": "^2.9.41",
@@ -36,6 +51,5 @@
     "chart.js": "^3.9.1",
     "stream": "^0.0.3",
     "tslib": "^2.8.1"
-  },
-  "description": ""
+  }
 }
