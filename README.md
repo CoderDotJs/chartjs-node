@@ -15,7 +15,7 @@ Provides and alternative to [chartjs-node](https://www.npmjs.com/package/chartjs
 ## Installation
 
 ```
-npm i chartjs-node-canvas chart.js
+npm i @akash3080/chartjs-node chart.js
 ```
 
 ### Node JS version
