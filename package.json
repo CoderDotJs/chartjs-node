@@ -1,6 +1,6 @@
 {
   "name": "@akash3080/chartjs-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Render chart.js in node.js",
   "main": "./dist/index",
   "types": "./dist/index.d.ts",
