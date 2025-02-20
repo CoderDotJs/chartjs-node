@@ -1,6 +1,6 @@
 {
   "name": "@akash3080/chartjs-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Render chart.js in node.js",
   "main": "./dist/index",
   "types": "./dist/index.d.ts",
@@ -33,7 +33,6 @@
     "url": "https://github.com/CoderDotJs/chartjs-node.git"
   },
   "readme": "README.md",
-  "license": "MIT",
   "license": "ISC",
   "devDependencies": {
     "@types/chart.js": "^2.9.41",
